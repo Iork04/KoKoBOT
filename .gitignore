@@ -1,0 +1,9 @@
+.venv
+.env.dev
+data
+poetry.lock
+__pycache__
+fortune_data.json
+group_rules.json
+
+
