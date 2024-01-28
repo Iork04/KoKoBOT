@@ -37,7 +37,7 @@ build-backend = "poetry.core.masonry.api"
 [[tool.poetry.source]]
 name = "ali"
 url = "https://mirrors.aliyun.com/pypi/simple/"
-priority = "primary"
+priority = "default"
 
 
 [[tool.poetry.source]]
@@ -49,4 +49,4 @@ priority = "primary"
 [[tool.poetry.source]]
 name = "tsinghua"
 url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/"
-priority = "default"
+priority = "primary"
